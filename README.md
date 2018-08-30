@@ -2,4 +2,4 @@
 Machine Learning Applications using Sklearn, matplotlib, pandas, and seaborn through spyder ide.
 
 Python Version: 3.6.5
-ide used: Spyder
+ide used: Spyder 3.3.0
